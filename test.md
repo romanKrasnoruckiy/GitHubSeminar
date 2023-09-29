@@ -60,7 +60,7 @@
 
 ## Списки
 
-Чтобы добавить ненумерованные списки, необходимо пункты выделить звездочкой (*) или знаком +. Например, вот так:
+Чтобы добавить ненумерованные списки, необходимо пункты выделить звездочкой (*) или знаком +. *Например*, вот так:
 
 * Элемент 1
 * Элемент 2
@@ -79,13 +79,25 @@
 
 ## Ссылки
 
+Фраза для ссылки должна быть понятной. Иными словами, это должен быть полноценный текст или название страницы, на которую указывает ссылка.
+
+*Правильно*:
+
+* For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+* For more details, see the [SET TRANSACTION ISOLATION LEVEL](/sql/t-sql/statements/set-transaction-isolation-level-transact-sql) reference.
+
+*Неправильно*:
+
+* For more details, see [https://msdn.microsoft.com/library/ms173763.aspx](https://msdn.microsoft.com/library/ms173763.aspx).
+* For more information, click [here](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+
 ## Работа с таблицами
 
 ## Цитаты
 
 Блоки цитирования создаются с помощью символа ">":
 
-Например:
+*Например*:
 
 > Вот так
 
